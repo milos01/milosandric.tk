@@ -26,6 +26,7 @@
                 font-size: 30px;
                 text-transform: uppercase;
                 z-index: 9999;
+
             }
 
             p{
@@ -98,13 +99,16 @@
             .logo{
                 margin-top: -35px;
                 position: absolute;
-                /*opacity: 0.7;*/
+                opacity: 0.2;
                 background-image: url('img/logo.jpg');
                 width: 207px;
                 height: 290px;
                 background-size: 207px 290px;
                 background-repeat: no-repeat;
                 
+            }
+            #helloText{
+                cursor: pointer;
             }
         </style>
     </head>
@@ -114,7 +118,7 @@
             <div class="logo"></div>
                 <div class="content">
                     <h1>Software developer. Engineer. Artisan</h1>
-                    <a href="mailto:milosa942@gmail.com"><p>I also like talking. Say hello.</p></a>
+                    <a href="mailto:milosa942@gmail.com"><p id="helloText">I also like talking. Say hello.</p></a>
                     <p>
                         <img src="img/face.png">
                         <img src="img/insta.png">
