@@ -13,7 +13,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #000;
+                background-color: #c1e3e5;
                 color: #fff;
                 /*font-family: 'Raleway', sans-serif;*/
                 font-family: 'Roboto', sans-serif;
@@ -100,7 +100,7 @@
                 margin-top: -35px;
                 position: absolute;
                 opacity: 0.2;
-                background-image: url('img/logo.jpg');
+                /*background-image: url('img/logo.jpg');*/
                 width: 207px;
                 height: 290px;
                 background-size: 207px 290px;
@@ -117,7 +117,7 @@
             <div class="flex-center position-ref full-height">
             <div class="logo"></div>
                 <div class="content">
-                    <h1>Software developer. Engineer. Artisan</h1>
+                    <h1>&#60;Software developer. Engineer. Artisan&#47;&#62;</h1>
                     <a href="mailto:milosa942@gmail.com"><p id="helloText">I also like talking. Say hello.</p></a>
                     <p>
                         <img src="img/face.png">
