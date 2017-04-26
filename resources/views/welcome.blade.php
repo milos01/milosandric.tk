@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
-        
+
 
         <title>MILOSANDRIC</title>
 
@@ -131,9 +131,15 @@
                     <h1>&#60;Software developer. Engineer. Artisan&#47;&#62;</h1>
                     <a href="mailto:milosa942@gmail.com"><p id="helloText">I also like talking. Say hello.</p></a>
                     <p>
-                        <img src="img/face.png">
-                        <img src="img/insta.png">
-                        <img src="img/mail.png">
+                        <a href="https://www.facebook.com/andric01" target="_blank" style="text-decoration: none">
+                            <img src="img/face.png">
+                        </a>
+                        <a href="https://www.instagram.com/milosandric01" target="_blank" style="text-decoration: none">
+                            <img src="img/insta.png">
+                        </a>
+                        <a href="mailto:milosa942@gmail.com" style="text-decoration: none">
+                            <img src="img/mail.png">
+                        </a>
                     </p>
                 </div>
             </div>
